@@ -1,0 +1,5 @@
+/.vs/CalculatorForTwoNumbers/v15/Server/sqlite3/*.ide
+/.vs/CalculatorForTwoNumbers/v15/*.suo
+/.vs/CalculatorForTwoNumbers/v15/Server/sqlite3/*.lock
+/CalculatorForTwoNumbers/Properties
+/CalculatorForTwoNumbers/obj/Debug
